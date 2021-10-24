@@ -15,7 +15,7 @@ async def ytdl(_, message):
     userLastDownloadTime = user_time.get(message.chat.id)
     try:
         if userLastDownloadTime > datetime.now():
-            wait_time = round((userLastDownloadTime - datetime.now()).total_seconds() / 60, 2)
+            wait_time = round((userLastDownloadTime - datetime.now()).total_seconds() / 20, 0)
             await message.reply_text(f"`Wait {wait_time} Minutes before next Request`")
             return
     except:
