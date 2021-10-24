@@ -1,4 +1,4 @@
-# Youtube Dl bot 😉
+# YOUTUBE DOWNLOADER BOT
 ## Prerequisite
     ffmpeg
   
@@ -11,9 +11,11 @@
     - Change configuration config.py  File
     - install dependencies
     - python3 -m bot
-    
-## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+
+## Instant Install
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HariyonoRizki2/YT-Down-Bot/tree/master)
+
+## SUPPORT ME!
+    - IDR (OVO,DANA,LINKAJA,GOPAY) [![Saweria](https://images.app.goo.gl/1pLnPhJhhawS3PAq9)](https://saweria.co/KITGBOTZ)
+    - USD (Paypal)
