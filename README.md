@@ -17,5 +17,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HariyonoRizki2/YT-Down-Bot/tree/master)
 
 ## SUPPORT ME!
-    - IDR (OVO,DANA,LINKAJA,GOPAY) [Saweria](https://saweria.co/KITGBOTZ)
-    - USD (Paypal)
+    IDR (OVO,DANA,LINKAJA,GOPAY) [Saweria](https://saweria.co/KITGBOTZ)
+    USD (Paypal)
